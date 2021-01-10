@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main(){
 	int min;
@@ -8,7 +9,7 @@ int main(){
 
 	sec = 60 * min ;
 
-	cout <<min<<"minutes is "<<sec<<" seconds."<<endl
+	cout <<min<<" minutes is "<<sec<<" seconds."<<endl;
 
-
+	return 0;
 }
