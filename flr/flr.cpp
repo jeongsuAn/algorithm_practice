@@ -9,7 +9,7 @@ int main(){
 	cin>>num;
 
 	for(flr=0; flr_num<num; flr++){
-		flr_num=(pow(2,flr)-2);		
+		flr_num=(pow(2,flr)-1);		
 //		cout<<"flr_num = "<<flr_num<<endl;
 //		cout<<"flr = "<<flr<<endl;
 	}	
